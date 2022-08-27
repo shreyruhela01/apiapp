@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 1) Making api calls with Axios
-2) Mock API: https://api.instantwebtools.net/v1/passenger?page=0&size=10
+
 
 
 ## Available Scripts
